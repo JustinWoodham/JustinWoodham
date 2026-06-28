@@ -12,7 +12,7 @@ Artificial Inteligence is not limited and shouldn't by anymeans, be all about ge
 
 ---
 ### Currently 📈
-I am working on a data visualisation project. Football is a big interest of mine, and Fantasy Premier League (FPL) perfectly encapsulates the fatuation and gamification of the sport. I have been a long player of FPL and have been wanting improved analytics on my weekly points, yearly performance and also a way to compare points with my friends. I am working on a python script that calls the FPL API to colate data into Pandas tables and then visualise user points through graphs on Matplotlib.
+I am working on a [data visualisation project](https://github.com/JustinWoodham/FPL-Rank-Summary.git). Football is a big interest of mine, and Fantasy Premier League (FPL) perfectly encapsulates the fatuation and gamification of the sport. I have been a long player of FPL and have been wanting improved analytics on my weekly points, yearly performance and also a way to compare points with my friends. I am working on a python script that calls the FPL API to colate data into Pandas tables and then visualise user points through graphs on Matplotlib.
 
 I aim to add additional features:
 - Cross league visualisations
