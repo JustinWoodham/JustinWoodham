@@ -16,7 +16,7 @@ I am working on a [data visualisation project](https://github.com/JustinWoodham/
 
 I aim to add additional features:
 - Cross league visualisations
-- Indicators of when chips are used
+- Indicators of when chips are used ✅
 - Options to download or share graphical charts
 
 Stretch goals:
